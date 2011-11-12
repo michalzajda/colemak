@@ -1,0 +1,403 @@
+Z:: Colemak layout source for Mac OS X.
+:: 2006-01-01 Shai Coleman, http://colemak.com/ . Public domain. 
+:: Use http://wordherd.com/keyboards/  and paste this entire file
+:: to generate the keyboard layout. 
+ 
+ P` $0060 :: grave <TLDE>
+ S` $007e :: asciitilde 
+ O` $007e  $0061:$00e3 $0065:$1ebd $0069:$0129 $006e:$00f1 $006f:$00f5 $0075:$0169 $0076:$1e7d $0079:$1ef9 $00f3:$1e4d $00fa:$1e79 $00f6:$1e4f $014d:$022d $0103:$1eb5 $00e2:$1eab $00ea:$1ec5 $00f4:$1ed7 $0041:$00c3 $0045:$1ebc $0049:$0128 $004e:$00d1 $004f:$00d5 $0055:$0168 $0056:$1e7c $0059:$1ef8 $00d3:$1e4c $00da:$1e78 $00d6:$1e4e $014c:$022c $0102:$1eb4 $00c2:$1eaa $00ca:$1ec4 $00d4:$1ed6  :: dead_tilde 
+OS` $007e :: asciitilde 
+ C` $0060 :: grave 
+ M` $0060 :: grave 
+
+ P1 $0031 :: 1 <AE01>
+ S1 $0021 :: exclam 
+ O1 $00a1 :: exclamdown 
+OS1 $00b9 :: onesuperior 
+ C1 $0031 :: 1 
+OC1 $00a1 :: exclamdown 
+ M1 $0031 :: 1 
+
+ P2 $0032 :: 2 <AE02>
+ S2 $0040 :: at 
+ O2 $00ba :: masculine 
+OS2 $00b2 :: twosuperior 
+ C2 $0032 :: 2 
+OC2 $00ba :: masculine 
+ M2 $0032 :: 2 
+
+ P3 $0033 :: 3 <AE03>
+ S3 $0023 :: numbersign 
+ O3 $00aa :: ordfeminine 
+OS3 $00b3 :: threesuperior 
+ C3 $0033 :: 3 
+OC3 $00aa :: ordfeminine 
+ M3 $0033 :: 3 
+
+ P4 $0034 :: 4 <AE04>
+ S4 $0024 :: dollar 
+ O4 $00a2 :: cent 
+OS4 $00a3 :: sterling 
+ C4 $0034 :: 4 
+OC4 $00a2 :: cent 
+ M4 $0034 :: 4 
+
+ P5 $0035 :: 5 <AE05>
+ S5 $0025 :: percent 
+ O5 $20ac :: EuroSign 
+OS5 $00a5 :: yen 
+ C5 $0035 :: 5 
+OC5 $20ac :: EuroSign 
+ M5 $0035 :: 5 
+
+ P6 $0036 :: 6 <AE06>
+ S6 $005e :: asciicircum 
+ O6 $0127 :: hstroke 
+OS6 $0126 :: Hstroke 
+ C6 $0036 :: 6 
+OC6 $0126 :: Hstroke 
+ M6 $0036 :: 6 
+
+ P7 $0037 :: 7 <AE07>
+ S7 $0026 :: ampersand 
+ O7 $00f0 :: eth 
+OS7 $00d0 :: ETH 
+ C7 $0037 :: 7 
+OC7 $00d0 :: ETH 
+ M7 $0037 :: 7 
+
+ P8 $0038 :: 8 <AE08>
+ S8 $002a :: asterisk 
+ O8 $00fe :: thorn 
+OS8 $00de :: THORN 
+ C8 $0038 :: 8 
+OC8 $00de :: THORN 
+ M8 $0038 :: 8 
+
+ P9 $0039 :: 9 <AE09>
+ S9 $0028 :: parenleft 
+ O9 $2018 :: leftsinglequotemark 
+OS9 $201c :: leftdoublequotemark 
+ C9 $0039 :: 9 
+OC9 $2018 :: leftsinglequotemark 
+ M9 $0039 :: 9 
+
+ P0 $0030 :: 0 <AE10>
+ S0 $0029 :: parenright 
+ O0 $2019 :: rightsinglequotemark 
+OS0 $201d :: rightdoublequotemark 
+ C0 $0030 :: 0 
+OC0 $2019 :: rightsinglequotemark 
+ M0 $0030 :: 0 
+
+ P- $002d :: minus <AE11>
+ S- $005f :: underscore 
+ O- $2013 :: endash 
+OS- $2014 :: emdash 
+ C- $002d :: minus 
+OC- $2013 :: endash 
+ M- $002d :: minus 
+
+ P= $003d :: equal <AE12>
+ S= $002b :: plus 
+ O= $00d7 :: multiply 
+OS= $00f7 :: division 
+ C= $003d :: equal 
+OC= $00d7 :: multiply 
+ M= $003d :: equal 
+
+ Pq $0071 :: q <AD01>
+ Sq $0051 :: Q 
+ Oq $00e4 :: adiaeresis 
+OSq $00c4 :: Adiaeresis 
+ Cq $0051 :: Q 
+OCq $00c4 :: Adiaeresis 
+ Mq $0071 :: q 
+ Tq $0011 :: Ctrl-q 
+
+ Pw $0077 :: w <AD02>
+ Sw $0057 :: W 
+ Ow $00e5 :: aring 
+OSw $00c5 :: Aring 
+ Cw $0057 :: W 
+OCw $00c5 :: Aring 
+ Mw $0077 :: w 
+ Tw $0017 :: Ctrl-w 
+
+ Pe $0066 :: f <AD03>
+ Se $0046 :: F 
+ Oe $00e3 :: atilde 
+OSe $00c3 :: Atilde 
+ Ce $0046 :: F 
+OCe $00c3 :: Atilde 
+ Me $0066 :: f 
+ Te $0006 :: Ctrl-f 
+
+ Pr $0070 :: p <AD04>
+ Sr $0050 :: P 
+ Or $00f8 :: oslash 
+OSr $00d8 :: Ooblique 
+ Cr $0050 :: P 
+OCr $00d8 :: Ooblique 
+ Mr $0070 :: p 
+ Tr $0010 :: Ctrl-p 
+
+ Pt $0067 :: g <AD05>
+ St $0047 :: G 
+ Ot $02db  $0061:$0105 $0065:$0119 $0069:$012f $006f:$01eb $0075:$0173 $014d:$01ed $0041:$0104 $0045:$0118 $0049:$012e $004f:$01ea $0055:$0172 $014c:$01ec  :: dead_ogonek 
+OSt $007e :: asciitilde 
+ Ct $0047 :: G 
+ Mt $0067 :: g 
+ Tt $0007 :: Ctrl-g 
+
+ Py $006a :: j <AD06>
+ Sy $004a :: J 
+ Oy $0111 :: dstroke 
+OSy $0110 :: Dstroke 
+ Cy $004a :: J 
+OCy $0110 :: Dstroke 
+ My $006a :: j 
+ Ty $000a :: Ctrl-j 
+
+ Pu $006c :: l <AD07>
+ Su $004c :: L 
+ Ou $0142 :: lstroke 
+OSu $0141 :: Lstroke 
+ Cu $004c :: L 
+OCu $0141 :: Lstroke 
+ Mu $006c :: l 
+ Tu $000c :: Ctrl-l 
+
+ Pi $0075 :: u <AD08>
+ Si $0055 :: U 
+ Oi $00fa :: uacute 
+OSi $00da :: Uacute 
+ Ci $0055 :: U 
+OCi $00da :: Uacute 
+ Mi $0075 :: u 
+ Ti $0015 :: Ctrl-u 
+
+ Po $0079 :: y <AD09>
+ So $0059 :: Y 
+ Oo $00fc :: udiaeresis 
+OSo $00dc :: Udiaeresis 
+ Co $0059 :: Y 
+OCo $00dc :: Udiaeresis 
+ Mo $0079 :: y 
+ To $0019 :: Ctrl-y 
+
+ Pp $003b :: semicolon <AD10>
+ Sp $003a :: colon 
+ Op $00f6 :: odiaeresis 
+OSp $00d6 :: Odiaeresis 
+ Cp $003b :: semicolon 
+OCp $00d6 :: Odiaeresis 
+ Mp $003b :: semicolon 
+
+ P[ $005b :: bracketleft <AD11>
+ S[ $007b :: braceleft 
+ O[ $00ab :: guillemotleft 
+OS[ $2039 :: 0x1002039 
+ C[ $005b :: bracketleft 
+OC[ $00ab :: guillemotleft 
+ M[ $005b :: bracketleft 
+
+ P] $005d :: bracketright <AD12>
+ S] $007d :: braceright 
+ O] $00bb :: guillemotright 
+OS] $203a :: 0x100203a 
+ C] $005d :: bracketright 
+OC] $00bb :: guillemotright 
+ M] $005d :: bracketright 
+
+ P\ $005c :: backslash <BKSL>
+ S\ $007c :: bar 
+ O\ $007e :: asciitilde 
+OS\ $007e :: asciitilde 
+ C\ $005c :: backslash 
+OC\ $007e :: asciitilde 
+ M\ $005c :: backslash 
+
+ Pa $0061 :: a <AC01>
+ Sa $0041 :: A 
+ Oa $00e1 :: aacute 
+OSa $00c1 :: Aacute 
+ Ca $0041 :: A 
+OCa $00c1 :: Aacute 
+ Ma $0061 :: a 
+ Ta $0001 :: Ctrl-a 
+
+ Ps $0072 :: r <AC02>
+ Ss $0052 :: R 
+ Os $0060  $0061:$00e0 $0065:$00e8 $0069:$00ec $006e:$01f9 $006f:$00f2 $0075:$00f9 $0077:$1e81 $0079:$1ef3 $0103:$1eb1 $00e2:$1ea7 $00ea:$1ec1 $0113:$1e15 $00f4:$1ed3 $014d:$1e51 $00fc:$01dc $0041:$00c0 $0045:$00c8 $0049:$00cc $004e:$01f8 $004f:$00d2 $0055:$00d9 $0057:$1e80 $0059:$1ef2 $0102:$1eb0 $00c2:$1ea6 $00ca:$1ec0 $0112:$1e14 $00d4:$1ed2 $014c:$1e50 $00dc:$01db  :: dead_grave 
+OSs $007e :: asciitilde 
+ Cs $0052 :: R 
+ Ms $0072 :: r 
+ Ts $0012 :: Ctrl-r 
+
+ Pd $0073 :: s <AC03>
+ Sd $0053 :: S 
+ Od $00df :: ssharp 
+OSd $007e :: asciitilde 
+ Cd $0053 :: S 
+OCd $00df :: ssharp 
+ Md $0073 :: s 
+ Td $0013 :: Ctrl-s 
+
+ Pf $0074 :: t <AC04>
+ Sf $0054 :: T 
+ Of $00b4  $0061:$00e1 $00e6:$01fd $0063:$0107 $0065:$00e9 $0067:$01f5 $0069:$00ed $006b:$1e31 $006c:$013a $006d:$1e3f $006e:$0144 $006f:$00f3 $0070:$1e55 $0072:$0155 $0073:$015b $0075:$00fa $0077:$1e83 $0079:$00fd $007a:$017a $0103:$1eaf $00e2:$1ea5 $00e5:$01fb $00e7:$1e09 $00ea:$1ebf $0113:$1e17 $00ef:$1e2f $00f4:$1ed1 $014d:$1e53 $00f8:$01ff $00f5:$1e4d $00fc:$01d8 $0169:$1e79 $1e61:$1e65 $0041:$00c1 $00c6:$01fc $0043:$0106 $0045:$00c9 $0047:$01f4 $0049:$00cd $004b:$1e30 $004c:$0139 $004d:$1e3e $004e:$0143 $004f:$00d3 $0050:$1e54 $0052:$0154 $0053:$015a $0055:$00da $0057:$1e82 $0059:$00dd $005a:$0179 $0102:$1eae $00c2:$1ea4 $00c5:$01fa $00c7:$1e08 $00ca:$1ebe $0112:$1e16 $00cf:$1e2e $00d4:$1ed0 $014c:$1e52 $00d8:$01fe $00d5:$1e4c $00dc:$01d7 $0168:$1e78 $1e60:$1e64  :: dead_acute 
+OSf $02dd  $006f:$0151 $0075:$0171 $004f:$0150 $0055:$0170  :: dead_doubleacute 
+ Cf $0054 :: T 
+ Mf $0074 :: t 
+ Tf $0014 :: Ctrl-t 
+
+ Pg $0064 :: d <AC05>
+ Sg $0044 :: D 
+ Og $00a8  $0061:$00e4 $0065:$00eb $0068:$1e27 $0069:$00ef $006f:$00f6 $0074:$1e97 $0075:$00fc $0077:$1e85 $0078:$1e8d $0079:$00ff $00ed:$1e2f $00fa:$01d8 $01d4:$01da $00f5:$1e4f $00f9:$01dc $0101:$01df $014d:$022b $016b:$01d6 $0041:$00c4 $0045:$00cb $0048:$1e26 $0049:$00cf $004f:$00d6 $0055:$00dc $0057:$1e84 $0058:$1e8c $0059:$0178 $00cd:$1e2e $00da:$01d7 $01d3:$01d9 $00d5:$1e4e $00d9:$01db $0100:$01de $014c:$022a $016a:$01d5  :: dead_diaeresis 
+OSg $007e :: asciitilde 
+ Cg $0044 :: D 
+ Mg $0064 :: d 
+ Tg $0004 :: Ctrl-d 
+
+ Ph $0068 :: h <AC06>
+ Sh $0048 :: H 
+ Oh $02c7  $0061:$01ce $0063:$010d $0064:$010f $01f3:$01c6 $0065:$011b $0292:$01ef $0067:$01e7 $0068:$021f $0069:$01d0 $006a:$01f0 $006b:$01e9 $006c:$013e $006e:$0148 $006f:$01d2 $0072:$0159 $0073:$0161 $0074:$0165 $0075:$01d4 $007a:$017e $00fc:$01da $1e61:$1e67 $0041:$01cd $0043:$010c $0044:$010e $01f2:$01c5 $01f1:$01c4 $0045:$011a $01b7:$01ee $0047:$01e6 $0048:$021e $0049:$01cf $004b:$01e8 $004c:$013d $004e:$0147 $004f:$01d1 $0052:$0158 $0053:$0160 $0054:$0164 $0055:$01d3 $005a:$017d $00dc:$01d9 $1e60:$1e66  :: dead_caron 
+OSh $007e :: asciitilde 
+ Ch $0048 :: H 
+ Mh $0068 :: h 
+ Th $0008 :: Ctrl-h 
+
+ Pj $006e :: n <AC07>
+ Sj $004e :: N 
+ Oj $00f1 :: ntilde 
+OSj $00d1 :: Ntilde 
+ Cj $004e :: N 
+OCj $00d1 :: Ntilde 
+ Mj $006e :: n 
+ Tj $000e :: Ctrl-n 
+
+ Pk $0065 :: e <AC08>
+ Sk $0045 :: E 
+ Ok $00e9 :: eacute 
+OSk $00c9 :: Eacute 
+ Ck $0045 :: E 
+OCk $00c9 :: Eacute 
+ Mk $0065 :: e 
+ Tk $0005 :: Ctrl-e 
+
+ Pl $0069 :: i <AC09>
+ Sl $0049 :: I 
+ Ol $00ed :: iacute 
+OSl $00cd :: Iacute 
+ Cl $0049 :: I 
+OCl $00cd :: Iacute 
+ Ml $0069 :: i 
+ Tl $0009 :: Ctrl-i 
+
+ P; $006f :: o <AC10>
+ S; $004f :: O 
+ O; $00f3 :: oacute 
+OS; $00d3 :: Oacute 
+ C; $004f :: O 
+OC; $00d3 :: Oacute 
+ M; $006f :: o 
+ T; $000f :: Ctrl-o 
+
+ P' $0027 :: apostrophe <AC11>
+ S' $0022 :: quotedbl 
+ O' $002a  $007e:$2248 $0063:$00a9 $0072:$00ae $006e:$2116 $0064:$00b0 $0074:$2122 $006d:$00b5 $0070:$00b6 $002e:$2026 $0025:$2030 $002b:$00b1 $003c:$2264 $003e:$2265 $003d:$2260 $007c:$00a6 $0073:$00a7  :: dead_special 
+OS' $00d5 :: Otilde 
+ C' $0027 :: apostrophe 
+OC' $00d5 :: Otilde 
+ M' $0027 :: apostrophe 
+
+ Pz $007a :: z <AB01>
+ Sz $005a :: Z 
+ Oz $00e6 :: ae 
+OSz $00c6 :: AE 
+ Cz $005a :: Z 
+OCz $00c6 :: AE 
+ Mz $007a :: z 
+ Tz $001a :: Ctrl-z 
+
+ Px $0078 :: x <AB02>
+ Sx $0058 :: X 
+ Ox $005e  $0061:$00e2 $0063:$0109 $0065:$00ea $0067:$011d $0068:$0125 $0069:$00ee $006a:$0135 $006f:$00f4 $0073:$015d $0075:$00fb $0077:$0175 $0079:$0177 $007a:$1e91 $00e1:$1ea5 $00e9:$1ebf $00f3:$1ed1 $00e0:$1ea7 $00e8:$1ec1 $00f2:$1ed3 $00e3:$1eab $1ebd:$1ec5 $00f5:$1ed7 $0041:$00c2 $0043:$0108 $0045:$00ca $0047:$011c $0048:$0124 $0049:$00ce $004a:$0134 $004f:$00d4 $0053:$015c $0055:$00db $0057:$0174 $0059:$0176 $005a:$1e90 $00c1:$1ea4 $00c9:$1ebe $00d3:$1ed0 $00c0:$1ea6 $00c8:$1ec0 $00d2:$1ed2 $00c3:$1eaa $1ebc:$1ec4 $00d5:$1ed6  :: dead_circumflex 
+OSx $007e :: asciitilde 
+ Cx $0058 :: X 
+ Mx $0078 :: x 
+ Tx $0018 :: Ctrl-x 
+
+ Pc $0063 :: c <AB03>
+ Sc $0043 :: C 
+ Oc $00e7 :: ccedilla 
+OSc $00c7 :: Ccedilla 
+ Cc $0043 :: C 
+OCc $00c7 :: Ccedilla 
+ Mc $0063 :: c 
+ Tc $0003 :: Ctrl-c 
+
+ Pv $0076 :: v <AB04>
+ Sv $0056 :: V 
+ Ov $0153 :: oe 
+OSv $0152 :: OE 
+ Cv $0056 :: V 
+OCv $0152 :: OE 
+ Mv $0076 :: v 
+ Tv $0016 :: Ctrl-v 
+
+ Pb $0062 :: b <AB05>
+ Sb $0042 :: B 
+ Ob $02d8  $0061:$0103 $0065:$0115 $0067:$011f $0069:$012d $006f:$014f $0075:$016d $00e1:$1eaf $0229:$1e1d $00e0:$1eb1 $00e3:$1eb5 $0041:$0102 $0045:$0114 $0047:$011e $0049:$012c $004f:$014e $0055:$016c $00c1:$1eae $0228:$1e1c $00c0:$1eb0 $00c3:$1eb4  :: dead_breve 
+OSb $007e :: asciitilde 
+ Cb $0042 :: B 
+ Mb $0062 :: b 
+ Tb $0002 :: Ctrl-b 
+
+ Pn $006b :: k <AB06>
+ Sn $004b :: K 
+ On $02da  $0061:$00e5 $0075:$016f $0077:$1e98 $0079:$1e99 $00e1:$01fb $0041:$00c5 $0055:$016e $00c1:$01fa  :: dead_abovering 
+OSn $007e :: asciitilde 
+ Cn $004b :: K 
+ Mn $006b :: k 
+ Tn $000b :: Ctrl-k 
+
+ Pm $006d :: m <AB07>
+ Sm $004d :: M 
+ Om $00af  $0061:$0101 $00e6:$01e3 $0065:$0113 $0067:$1e21 $0069:$012b $006f:$014d $0075:$016b $0079:$0233 $00e9:$1e17 $00f3:$1e53 $00e8:$1e15 $00f2:$1e51 $00e4:$01df $0227:$01e1 $00f6:$022b $022f:$0231 $01eb:$01ed $00f5:$022d $00fc:$01d6 $0041:$0100 $00c6:$01e2 $0045:$0112 $0047:$1e20 $0049:$012a $004f:$014c $0055:$016a $0059:$0232 $00c9:$1e16 $00d3:$1e52 $00c8:$1e14 $00d2:$1e50 $00c4:$01de $0226:$01e0 $00d6:$022a $022e:$0230 $01ea:$01ec $00d5:$022c $00dc:$01d5  :: dead_macron 
+OSm $007e :: asciitilde 
+ Cm $004d :: M 
+ Mm $006d :: m 
+ Tm $000d :: Ctrl-m 
+
+ P, $002c :: comma <AB08>
+ S, $003c :: less 
+ O, $00b8  $0063:$00e7 $0064:$1e11 $0065:$0229 $0067:$0123 $0068:$1e29 $006b:$0137 $006c:$013c $006e:$0146 $0072:$0157 $0073:$015f $0074:$0163 $0107:$1e09 $0115:$1e1d $0043:$00c7 $0044:$1e10 $0045:$0228 $0047:$0122 $0048:$1e28 $004b:$0136 $004c:$013b $004e:$0145 $0052:$0156 $0053:$015e $0054:$0162 $0106:$1e08 $0114:$1e1c  :: dead_cedilla 
+OS, $007e :: asciitilde 
+ C, $002c :: comma 
+ M, $002c :: comma 
+
+ P. $002e :: period <AB09>
+ S. $003e :: greater 
+ O. $02d9  $0061:$0227 $0062:$1e03 $0063:$010b $0064:$1e0b $0065:$0117 $0066:$1e1f $0067:$0121 $0068:$1e23 $017f:$1e9b $006d:$1e41 $006e:$1e45 $006f:$022f $0070:$1e57 $0072:$1e59 $0073:$1e61 $0074:$1e6b $0077:$1e87 $0078:$1e8b $0079:$1e8f $007a:$017c $015b:$1e65 $0161:$1e67 $0101:$01e1 $014d:$0231 $0041:$0226 $0042:$1e02 $0043:$010a $0044:$1e0a $0045:$0116 $0046:$1e1e $0047:$0120 $0048:$1e22 $0049:$0130 $004d:$1e40 $004e:$1e44 $004f:$022e $0050:$1e56 $0052:$1e58 $0053:$1e60 $0054:$1e6a $0057:$1e86 $0058:$1e8a $0059:$1e8e $005a:$017b $015a:$1e64 $0160:$1e66 $0100:$01e0 $014c:$0230 $0069:$0131 $006c:$0140 $004c:$013f  :: dead_abovedot 
+OS. $007e :: asciitilde 
+ C. $002e :: period 
+ M. $002e :: period 
+
+ P/ $002f :: slash <AB10>
+ S/ $003f :: question 
+ O/ $00bf :: questiondown 
+OS/ $007e :: asciitilde 
+ C/ $002f :: slash 
+OC/ $00bf :: questiondown 
+ M/ $002f :: slash 
+
+ P_ $0020 :: space <SPCE>
+ S_ $0020 :: space 
+ O_ $0020 :: space 
+OS_ $00a0 :: nobreakspace 
+ C_ $0020 :: space 
+OC_ $0020 :: space 
+ M_ $0020 :: space 
+
