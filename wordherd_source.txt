@@ -237,7 +237,7 @@ OSs $007e :: asciitilde
 
  Pd $0073 :: s <AC03>
  Sd $0053 :: S 
- Od $00df :: ssharp 
+ Od $015b :: s_acute
 OSd $007e :: asciitilde 
  Cd $0053 :: S 
 OCd $00df :: ssharp 
@@ -270,7 +270,7 @@ OSh $007e :: asciitilde
 
  Pj $006e :: n <AC07>
  Sj $004e :: N 
- Oj $00f1 :: ntilde 
+ Oj $0144 :: n_acute
 OSj $00d1 :: Ntilde 
  Cj $004e :: N 
 OCj $00d1 :: Ntilde 
@@ -279,7 +279,7 @@ OCj $00d1 :: Ntilde
 
  Pk $0065 :: e <AC08>
  Sk $0045 :: E 
- Ok $00e9 :: eacute 
+ Ok $0119 :: e_ogonek
 OSk $00c9 :: Eacute 
  Ck $0045 :: E 
 OCk $00c9 :: Eacute 
@@ -314,7 +314,7 @@ OC' $00d5 :: Otilde
 
  Pz $007a :: z <AB01>
  Sz $005a :: Z 
- Oz $00e6 :: ae 
+ Oz $017c :: z_dotabove
 OSz $00c6 :: AE 
  Cz $005a :: Z 
 OCz $00c6 :: AE 
@@ -323,7 +323,7 @@ OCz $00c6 :: AE
 
  Px $0078 :: x <AB02>
  Sx $0058 :: X 
- Ox $005e  $0061:$00e2 $0063:$0109 $0065:$00ea $0067:$011d $0068:$0125 $0069:$00ee $006a:$0135 $006f:$00f4 $0073:$015d $0075:$00fb $0077:$0175 $0079:$0177 $007a:$1e91 $00e1:$1ea5 $00e9:$1ebf $00f3:$1ed1 $00e0:$1ea7 $00e8:$1ec1 $00f2:$1ed3 $00e3:$1eab $1ebd:$1ec5 $00f5:$1ed7 $0041:$00c2 $0043:$0108 $0045:$00ca $0047:$011c $0048:$0124 $0049:$00ce $004a:$0134 $004f:$00d4 $0053:$015c $0055:$00db $0057:$0174 $0059:$0176 $005a:$1e90 $00c1:$1ea4 $00c9:$1ebe $00d3:$1ed0 $00c0:$1ea6 $00c8:$1ec0 $00d2:$1ed2 $00c3:$1eaa $1ebc:$1ec4 $00d5:$1ed6  :: dead_circumflex 
+ Ox $017a :: z_acute
 OSx $007e :: asciitilde 
  Cx $0058 :: X 
  Mx $0078 :: x 
@@ -331,7 +331,7 @@ OSx $007e :: asciitilde
 
  Pc $0063 :: c <AB03>
  Sc $0043 :: C 
- Oc $00e7 :: ccedilla 
+ Oc $0107 :: c_ogonek
 OSc $00c7 :: Ccedilla 
  Cc $0043 :: C 
 OCc $00c7 :: Ccedilla 
