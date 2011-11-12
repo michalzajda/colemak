@@ -3,7 +3,7 @@ The first commit is original layout -- to see later modifications.
 
 Original source file is taken from: http://colemak.com/pub/mac/wordherd_source.txt
 
-Current state of Polish bindings (http://colemak.com/Multilingual):
+Current state of Polish bindings ( http://colemak.com/Multilingual ):
 
 ą, ę: AltGr+[g] {letter}
 ć, ń, ó, ś, ź: AltGr+[t] {letter}
@@ -12,7 +12,7 @@ Current state of Polish bindings (http://colemak.com/Multilingual):
 
 Change it into:
 
-ą: AltGr+[a]
+ą: AltGr+[a] - done
 ę: AltGr+[e]
 ć: AltGr+[c]
 ń: AltGr+[n]

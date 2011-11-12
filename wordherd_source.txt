@@ -1,4 +1,4 @@
-Z:: Colemak layout source for Mac OS X.
+:: Colemak layout source for Mac OS X.
 :: 2006-01-01 Shai Coleman, http://colemak.com/ . Public domain. 
 :: Use http://wordherd.com/keyboards/  and paste this entire file
 :: to generate the keyboard layout. 
@@ -220,7 +220,7 @@ OC\ $007e :: asciitilde
 
  Pa $0061 :: a <AC01>
  Sa $0041 :: A 
- Oa $00e1 :: aacute 
+ Oa $0105 :: a_ogonek
 OSa $00c1 :: Aacute 
  Ca $0041 :: A 
 OCa $00c1 :: Aacute 
@@ -400,4 +400,5 @@ OS_ $00a0 :: nobreakspace
  C_ $0020 :: space 
 OC_ $0020 :: space 
  M_ $0020 :: space 
+
 
