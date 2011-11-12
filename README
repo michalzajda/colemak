@@ -1,4 +1,6 @@
-Colemak layout for Mac OS X modified for Polish language.
+Colemak layout for Mac OS X modified for Polish language
+(2-key combinations instead of 3-key for Polish letters).
+
 The first commit is original layout -- to see later modifications.
 
 Original source file is taken from: http://colemak.com/pub/mac/wordherd_source.txt
@@ -10,9 +12,9 @@ Current state of Polish bindings ( http://colemak.com/Multilingual ):
 ż: AltGr+[.] [z]
 ł: AltGr+[l]
 
-Change it into:
+Implemented:
 
-ą: AltGr+[a] - done
+ą: AltGr+[a]
 ę: AltGr+[e]
 ć: AltGr+[c]
 ń: AltGr+[n]
