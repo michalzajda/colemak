@@ -221,7 +221,7 @@ OC\ $007e :: asciitilde
  Pa $0061 :: a <AC01>
  Sa $0041 :: A 
  Oa $0105 :: a_ogonek
-OSa $00c1 :: Aacute 
+OSa $0104 :: A_ogonek
  Ca $0041 :: A 
 OCa $00c1 :: Aacute 
  Ma $0061 :: a 
@@ -238,7 +238,7 @@ OSs $007e :: asciitilde
  Pd $0073 :: s <AC03>
  Sd $0053 :: S 
  Od $015b :: s_acute
-OSd $007e :: asciitilde 
+OSd $015a :: S_acute
  Cd $0053 :: S 
 OCd $00df :: ssharp 
  Md $0073 :: s 
@@ -271,7 +271,7 @@ OSh $007e :: asciitilde
  Pj $006e :: n <AC07>
  Sj $004e :: N 
  Oj $0144 :: n_acute
-OSj $00d1 :: Ntilde 
+OSj $0143 :: N_acute
  Cj $004e :: N 
 OCj $00d1 :: Ntilde 
  Mj $006e :: n 
@@ -280,7 +280,7 @@ OCj $00d1 :: Ntilde
  Pk $0065 :: e <AC08>
  Sk $0045 :: E 
  Ok $0119 :: e_ogonek
-OSk $00c9 :: Eacute 
+OSk $0118 :: E_ogonek
  Ck $0045 :: E 
 OCk $00c9 :: Eacute 
  Mk $0065 :: e 
@@ -300,7 +300,7 @@ OCl $00cd :: Iacute
  O; $00f3 :: oacute 
 OS; $00d3 :: Oacute 
  C; $004f :: O 
-OC; $00d3 :: Oacute 
+OC; $00d3 :: Oacute
  M; $006f :: o 
  T; $000f :: Ctrl-o 
 
@@ -315,7 +315,7 @@ OC' $00d5 :: Otilde
  Pz $007a :: z <AB01>
  Sz $005a :: Z 
  Oz $017c :: z_dotabove
-OSz $00c6 :: AE 
+OSz $017b :: Z_dotabove
  Cz $005a :: Z 
 OCz $00c6 :: AE 
  Mz $007a :: z 
@@ -324,7 +324,7 @@ OCz $00c6 :: AE
  Px $0078 :: x <AB02>
  Sx $0058 :: X 
  Ox $017a :: z_acute
-OSx $007e :: asciitilde 
+OSx $0179 :: Z_acute
  Cx $0058 :: X 
  Mx $0078 :: x 
  Tx $0018 :: Ctrl-x 
@@ -332,7 +332,7 @@ OSx $007e :: asciitilde
  Pc $0063 :: c <AB03>
  Sc $0043 :: C 
  Oc $0107 :: c_ogonek
-OSc $00c7 :: Ccedilla 
+OSc $0106 :: C_ogonek
  Cc $0043 :: C 
 OCc $00c7 :: Ccedilla 
  Mc $0063 :: c 

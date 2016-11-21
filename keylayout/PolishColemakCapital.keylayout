@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="0" id="5007" name="PolishColemak" maxout="2">
+<keyboard group="0" id="5000" name="PolishColemakCapital" maxout="2">
 	<layouts>
 		<layout first="0" last="0" modifiers="48" mapSet="312" />
 	</layouts>
@@ -489,15 +489,15 @@
 			<key code="126" output="&#x1E;" />
 		</keyMap>
 		<keyMap index="4">
-			<key code="0" action="a102" />
+			<key code="0" output="&#x104;" />
 			<key code="1" action="a14" />
-			<key code="2" action="a14" />
+			<key code="2" action="a75" />
 			<key code="3" action="a13" />
 			<key code="4" action="a14" />
 			<key code="5" action="a14" />
-			<key code="6" action="a116" />
-			<key code="7" action="a14" />
-			<key code="8" action="a118" />
+			<key code="6" output="&#x17B;" />
+			<key code="7" output="&#x179;" />
+			<key code="8" action="a49" />
 			<key code="9" output="&#x152;" />
 			<!-- gap, 10 -->
 			<key code="11" action="a14" />
@@ -527,9 +527,9 @@
 			<key code="35" action="a93" />
 			<key code="36" output="&#xD;" />
 			<key code="37" action="a130" />
-			<key code="38" output="&#xD1;" />
+			<key code="38" output="&#x143;" />
 			<key code="39" action="a122" />
-			<key code="40" action="a147" />
+			<key code="40" output="&#x118;" />
 			<key code="41" action="a91" />
 			<key code="42" action="a14" />
 			<key code="43" action="a14" />
@@ -1757,5 +1757,3 @@
 		<when state="s13" output="&#x2DD;" />
 	</terminators>
 </keyboard>
-
-
