@@ -1,34 +1,47 @@
-# Colemak PL
+# Polish Colemak
 Colemak layout for Mac OS X modified for Polish language
-(2-key combinations instead of 3-key for Polish letters).
+
+Use 2-key combinations instead of 3-key for Polish letters,
+which are: `ąĄ ćĆ ęĘ łŁ ńŃ óÓ śŚ żŹ żŻ`
+
+In the keylayout directory there is compiled form of the
+key layout for US QWERTY keyboard
+
+Currently it works on OS X El Capitan
 
 # Installation
-Copy PolishColemak.keylayout to ~/Library/Keyboard Layouts eg.
+Copy PolishColemakCapital.keylayout to ~/Library/Keyboard Layouts eg.
 
-`cp PolishColemak.keylayout ~/Library/Keyboard\ Layouts`
+`cp PolishColemakCapital.keylayout ~/Library/Keyboard\ Layouts`
+
+Go to `Open Keyboard Preferences` then to `Input Sources` tab
+
+Hit `+` and in the left hand side list, scroll down to `Others`
+
+Choose `Others` and pick up PolishColemacCapital
 
 # What you get
 
-ą: AltGr+[a]
+ą: AltGr+[a] Ą: Shift+AltGr+[a]
 
-ę: AltGr+[e]
+ę: AltGr+[e] Ę: Shift+AltGr+[e]
 
-ć: AltGr+[c]
+ć: AltGr+[c] Ć: Shift+AltGr+[c]
 
-ń: AltGr+[n]
+ń: AltGr+[n] Ń: Shift+AltGr+[n]
 
-ó: AltGr+[o]
+ó: AltGr+[o] Ó: Shift+AltGr+[o]
 
-ś: AltGr+[s]
+ś: AltGr+[s] Ś: Shift+AltGr+[s]
 
-ź: AltGr+[z]
+ź: AltGr+[z] Ź: Shift+AltGr+[z]
 
-ż: AltGr+[x]
+ż: AltGr+[x] Ż: Shift+AltGr+[x]
 
-ł: AltGr+[l]
+ł: AltGr+[l] Ł: Shift+AltGr+[l]
 
-# VS Colemac
-Current state of standard Colemac Polish bindings ( http://colemak.com/Multilingual ):
+# vs Original Colemak
+Current state of standard Colemak Polish bindings ( http://colemak.com/Multilingual ):
 
 ą, ę: AltGr+[g] {letter}
 
@@ -40,3 +53,4 @@ Current state of standard Colemac Polish bindings ( http://colemak.com/Multiling
 
 # Thanks:
 Original source file is taken from: http://colemak.com/pub/mac/wordherd_source.txt
+Contributors: https://github.com/krzychukula
